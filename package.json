@@ -1,0 +1,11 @@
+{
+  "name": "ws",
+  "version": "1.0.0",
+  "description": "First web socket communication",
+  "main": "index.js",
+  "author": "Kanta.Inoue",
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^8.16.0"
+  }
+}
